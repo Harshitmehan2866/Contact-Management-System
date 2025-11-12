@@ -1,1 +1,6 @@
 # Contact-Management-System
+
+Introduction
+A Contact Management System is a software application designed to efficiently store, organize, and manage personal or professional contact details. In today’s digital world, maintaining contacts manually in notebooks or scattered files becomes difficult and inefficient. This system provides a computerized solution that allows users to easily add, view, search, update, and delete contact information such as name, phone number, and email address. The main purpose of developing this Contact Management System is to offer a simple, fast, and user friendly interface that helps users to manage their contacts without any data loss. The system is implemented using the C programming language with concepts like structures, pointers, linked lists, functions, file handling, and data storage. It also includes an Undo feature using a stack, which allows rollback of the last added contact.  This project not only helps in learning practical implementation of data structures but also demonstrates how software can simplify daily tasks. It can be further enhanced by adding graphical user interface, advanced search filters, and cloud-based synchronization for real-world use.  
+
+OUTPUT
